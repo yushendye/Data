@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T18:55:04.407Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="12cYmnEfhrjDPDbj7W7Q" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T18:55:20.505Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="dmYe4pI6iPkdscy99lIs" version="24.3.1" type="github">
   <diagram name="Page-1" id="cnX-aM7AjY0K3s4qXa8W">
     <mxGraphModel dx="4307" dy="2538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#190033" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRcqnsr2CCVpArvSFPLF-11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;DBSCAN to extract cluster&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1175" y="1340.24" width="370" height="50" as="geometry" />
+          <mxGeometry x="1230" y="1370" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gRcqnsr2CCVpArvSFPLF-12" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Maximum Filter to find peaks&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FAFAFA;" parent="1" vertex="1">
           <mxGeometry x="170" y="1345.24" width="410" height="50" as="geometry" />
