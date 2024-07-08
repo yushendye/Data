@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T01:27:25.191Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="26N0sNI-qja-gjqsptPH" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T01:28:13.277Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="SIhjbIGZNU8UKWOON14v" version="24.6.4" type="github">
   <diagram name="Page-1" id="d1me5s9H5_Em2sA6Zymm">
     <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="610" y="299" width="282" height="28" as="geometry" />
         </mxCell>
         <mxCell id="YUmcHCltXEvtBUBD8Ck0-19" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;(A)Figure containing single platelet.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FCFCFC;" parent="1" vertex="1">
-          <mxGeometry x="17.5" y="420" width="385" height="70" as="geometry" />
+          <mxGeometry x="17.5" y="440" width="385" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YUmcHCltXEvtBUBD8Ck0-20" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;(B)Figure containing multiple platelet aggregates.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FCFCFC;" parent="1" vertex="1">
           <mxGeometry x="578.51" y="440" width="380" height="70" as="geometry" />
